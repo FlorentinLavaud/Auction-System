@@ -1,3 +1,5 @@
-Drouot  > Assignment 1, simulating a new auction system & its revenue.
+# Econometrics of Competition 
 <br />
-Airline > Assignment 2, simulating the merger of two airline companies. 
+Simulating a new auction system & its revenue.
+<br />
+Simulating the merger of two airline companies. 
